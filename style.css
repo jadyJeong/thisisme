@@ -33,10 +33,17 @@ span {
     color: rgb(155, 155, 155);
 }
 
-a{
-    
-}
-
 footer {
     color: lime;
+}
+
+footer a:link {
+
+    color:lime;
+    text-decoration: none;
+}
+footer a:hover {
+
+    color:white;
+    text-decoration: none;
 }
