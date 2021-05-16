@@ -47,3 +47,7 @@ footer a:hover {
     color:white;
     text-decoration: none;
 }
+
+hr {
+    background-color:grey;
+}
