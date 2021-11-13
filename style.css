@@ -14,11 +14,11 @@ html {
   justify-content: space-around;
   align-items: center;
   border: 2px solid;
+  border-color: gray;
   border-radius: 8px;
 }
 
 .intro-container {
-  border: 2px solid;
 }
 
 section {
