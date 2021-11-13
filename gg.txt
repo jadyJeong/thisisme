@@ -1,0 +1,39 @@
+✔️ DNEG London  - Assistant Technical Director
+Worked primarily on VFX pipeline tooling. I was responsible for pipeline custom tooling for various DCC packages like Maya, Houdini etc.
+Using various custom and third-party python packages, I participated in creating and maintaining VFX pipeline tools that includes front and backend features all together.
+
+Worked in updating python scripts for packaging up client data in Json.
+Worked closely with R&D team for CD/CI to insure pipeline stability.
+
+Provided technical support for artists, this is mainly debugging: checking file integrity,versions and configuration files.
+Assited DevOps includes working with configuration in multiple serialization languages, disk management, monitoring render farm and file transfers.
+This position required a hollistic approach to developement workflow and provided unique challenges and insights.
+
+python, pyQT, MySQL, jenkins, linux, Jira
+
+✔️ AnserTechnologies Intership.
+Worked as Web back-end API for B2B financial data service. 
+This project was built using React JS and Express, MongoDB.
+
+As an intern I paricipated in their micro service backend migration from legacy to Django and PostgreSQL.
+I worked on user CRUD with full authorization& authentication and storing user UI config data in persistant DB layer.
+
+Django, ExpressJS, PostgreSQL, MongoDB, Github
+
+
+✔️ WeCode Web Developer Course
+Small project with 4-6 developers to make a E-commerce web application using React+Django stack.
+
+I worked on Backend APIs including User CRUD function and user API to handle storing user data and login with authentication.
+Designed entity relational diagram and built RDB in mySQL for the project. 
+Implemented user SNS sign-in with token generation and authentication.
+Testing with python unittest and debugging with Django shell.
+Dockerizing and deploying DB and APIs on AWS RDB and EC2.
+
+Working on this project provided me with fundemental and essential overview of Web development especially in server-side: HTTP, how client and server communicate, MVT structure, authorization&authentication, ORM and DB structure, unittest.
+
+HTML5, JavaScript, Django, ORM, mySQL , linux, Github
+
+✔️Pearson College London - MA in Game Arts
+Completed Game Arts course in Escape Studio, Pearson College London.
+Trained in 3d modeling and game engine VFX. primarily in visual programming using nodes in Unreal Engine, including scripting in Python and C++, version control using PerForce.

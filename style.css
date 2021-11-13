@@ -1,50 +1,66 @@
-body, html {
-    font-size: 18px;
-    margin: 0;
-    word-break: keep-all;
-    font-family: "IBM Plex Sans", sans-serif;
-    overflow-x: hidden;
-    background-color: rgb(33, 36, 40);
-    color: rgb(211, 212, 212);
+body,
+html {
+  font-size: 18px;
+  margin: 0;
+  word-break: keep-all;
+  font-family: "IBM Plex Sans", sans-serif;
+  overflow-x: hidden;
+  background-color: rgb(33, 36, 40);
+  color: rgb(211, 212, 212);
 }
 
-section{
-    padding:0px 50px;
-    margin: 50px;
-}
-/*Navbar*/
-#navbar {
-    position: fixed;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    color: black;
-    font-weight: bolder;
-    background-color:limegreen;
-    align-items: center;
-    z-index: 1;
+#intro {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid;
+  border-color: gray;
+  border-radius: 8px;
 }
 
-div {
-    padding : 20px;
+.intro-container {
+}
+
+section {
+  padding: 0px 50px;
+  margin: 50px;
 }
 
 span {
-    color: rgb(155, 155, 155);
+  color: rgb(155, 155, 155);
+}
+
+hr {
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+}
+
+/*Navbar*/
+#navbar {
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  font-weight: bolder;
+  background-color: limegreen;
+  align-items: center;
+  z-index: 1;
 }
 
 footer {
-    color: lime;
+  color: lime;
 }
 
-footer a:link, a:visited{
-
-    color:lime;
-    text-decoration: none;
+footer a:link,
+a:visited {
+  color: lime;
+  text-decoration: none;
 }
 footer a:hover {
-
-    color:white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
-
