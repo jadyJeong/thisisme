@@ -9,6 +9,15 @@ html {
   color: rgb(211, 212, 212);
 }
 
+#hi {
+  padding: 18px;
+}
+
+#skills {
+  line-height: 12px;
+  padding: 12px;
+}
+
 #intro {
   display: flex;
   justify-content: space-around;
@@ -16,6 +25,12 @@ html {
   border: 2px solid;
   border-color: gray;
   border-radius: 8px;
+}
+
+#work-experience,
+#relevant-experience {
+  padding-top: 52px;
+  padding-bottom: 42px;
 }
 
 .intro-container {
